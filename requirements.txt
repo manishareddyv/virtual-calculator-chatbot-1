@@ -1,0 +1,11 @@
+Flask
+sympy
+gunicorn
+flask
+gunicorn
+# any other dependencies you need
+git add requirements.txt
+git commit -m "Added gunicorn to requirements"
+git push origin main
+
+
